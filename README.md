@@ -1,1 +1,1 @@
-# Week-4_Intel-Image-Classification
+Intel-Image-Classification
