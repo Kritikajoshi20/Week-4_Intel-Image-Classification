@@ -1,1 +1,1 @@
-Intel-Image-Classification
+This project focuses on building a Convolutional Neural Network (CNN) model to classify natural scene images from the Intel Image Classification dataset. The goal is to accurately categorize images into six distinct classes—buildings, forest, glacier, mountain, sea, and street by leveraging deep learning techniques. The project includes data preprocessing, model architecture design, training, evaluation, and visualization of results to demonstrate the effectiveness of the approach.
